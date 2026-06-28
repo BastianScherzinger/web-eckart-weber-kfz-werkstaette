@@ -1,0 +1,77 @@
+{
+  "site_name": "Eckart Weber KFZ-Werkstätte",
+  "branche": "KFZ Werkstatt",
+  "stadt": "Freiburg im Breisgau",
+  "telefon": "",
+  "email": "",
+  "adresse": "Oltmannsstr. 22 79100 Freiburg (Wiehre)",
+  "akzent": "#006400",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Eckart Weber - Zuverlässige KFZ-Beratung",
+  "subline": "Ihre Fahrzeuge in den besten Händen.",
+  "ueber_titel": "Eckart Weber KFZ-Werkstätte Freiburg",
+  "ueber_text": "Seit vielen Jahren bieten wir lokale, zuverlässige und qualitativ hochwertige KFZ-Dienstleistungen an. Unsere Kunden profitieren von individueller Beratung und schnellem Service.",
+  "leistungen": [
+    {
+      "titel": "Wartungscheck",
+      "text": "Schnelle Überprüfung aller wichtigen Komponenten."
+    },
+    {
+      "titel": "Reparaturarbeiten",
+      "text": "Effiziente Lösung für alle Fahrzeugprobleme."
+    },
+    {
+      "titel": "Kontrolluntersuchungen",
+      "text": "Gewährleistung von Straßenreifheit und Sicherheit."
+    },
+    {
+      "titel": "Fahrzeugpflege",
+      "text": "Dauerhafte Erhaltung Ihres Autos durch regelmäßige Pflege."
+    }
+  ],
+  "cta_text": "Ihr Fahrzeug jetzt untersuchen lassen!",
+  "seo_title": "Eckart Weber KFZ-Werkstätte - Zuverlässiger Service in Freiburg",
+  "seo_desc": "Eckart Weber bietet lokale, zuverlässige und qualitativ hochwertige KFZ-Dienstleistungen an.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "kfz.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Inspektion",
+        "ab": 150,
+        "bis": 450
+      },
+      {
+        "name": "HU / AU",
+        "ab": 120,
+        "bis": 180
+      },
+      {
+        "name": "Reifenwechsel",
+        "ab": 30,
+        "bis": 90
+      },
+      {
+        "name": "Bremsen erneuern",
+        "ab": 200,
+        "bis": 650
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Archivo",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "hero_refresh_version": 7
+}
